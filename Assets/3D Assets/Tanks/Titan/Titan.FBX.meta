@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: b23c5d0fc05e05f489da94697f59f471
+timeCreated: 1478842802
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: FirePoint
+    100004: FirePoint1
+    100006: HeavyArtillary
+    100008: L_Wheel_1
+    100010: L_Wheel_2
+    100012: L_Wheel_3
+    100014: L_Wheel_4
+    100016: L_Wheel_5
+    100018: L_Wheel_6
+    100020: L_Wheel_7
+    100022: R_Wheel_1
+    100024: R_Wheel_2
+    100026: R_Wheel_3
+    100028: R_Wheel_4
+    100030: R_Wheel_5
+    100032: R_Wheel_6
+    100034: R_Wheel_7
+    100036: Stand
+    100038: //RootNode
+    400000: Barrel
+    400002: FirePoint
+    400004: FirePoint1
+    400006: HeavyArtillary
+    400008: L_Wheel_1
+    400010: L_Wheel_2
+    400012: L_Wheel_3
+    400014: L_Wheel_4
+    400016: L_Wheel_5
+    400018: L_Wheel_6
+    400020: L_Wheel_7
+    400022: R_Wheel_1
+    400024: R_Wheel_2
+    400026: R_Wheel_3
+    400028: R_Wheel_4
+    400030: R_Wheel_5
+    400032: R_Wheel_6
+    400034: R_Wheel_7
+    400036: Stand
+    400038: //RootNode
+    2300000: Barrel
+    2300002: FirePoint
+    2300004: FirePoint1
+    2300006: HeavyArtillary
+    2300008: L_Wheel_1
+    2300010: L_Wheel_2
+    2300012: L_Wheel_3
+    2300014: L_Wheel_4
+    2300016: L_Wheel_5
+    2300018: L_Wheel_6
+    2300020: L_Wheel_7
+    2300022: R_Wheel_1
+    2300024: R_Wheel_2
+    2300026: R_Wheel_3
+    2300028: R_Wheel_4
+    2300030: R_Wheel_5
+    2300032: R_Wheel_6
+    2300034: R_Wheel_7
+    2300036: Stand
+    2300038: //RootNode
+    3300000: Barrel
+    3300002: FirePoint
+    3300004: FirePoint1
+    3300006: HeavyArtillary
+    3300008: L_Wheel_1
+    3300010: L_Wheel_2
+    3300012: L_Wheel_3
+    3300014: L_Wheel_4
+    3300016: L_Wheel_5
+    3300018: L_Wheel_6
+    3300020: L_Wheel_7
+    3300022: R_Wheel_1
+    3300024: R_Wheel_2
+    3300026: R_Wheel_3
+    3300028: R_Wheel_4
+    3300030: R_Wheel_5
+    3300032: R_Wheel_6
+    3300034: R_Wheel_7
+    3300036: Stand
+    3300038: //RootNode
+    4300000: Body
+    4300002: HeavyArtillary
+    4300004: Stand
+    4300006: Barrel
+    4300008: FirePoint
+    4300010: FirePoint1
+    4300012: R_Wheel_1
+    4300014: R_Wheel_2
+    4300016: R_Wheel_3
+    4300018: R_Wheel_4
+    4300020: R_Wheel_5
+    4300022: R_Wheel_6
+    4300024: R_Wheel_7
+    4300026: L_Wheel_1
+    4300028: L_Wheel_2
+    4300030: L_Wheel_3
+    4300032: L_Wheel_4
+    4300034: L_Wheel_5
+    4300036: L_Wheel_6
+    4300038: L_Wheel_7
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

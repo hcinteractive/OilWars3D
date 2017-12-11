@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 7aa6ea3732518434c9e004347bb726c4
+timeCreated: 1479454609
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: L_Wheel_01
+    100002: L_Wheel_02
+    100004: L_Wheel_03
+    100006: L_Wheel_04
+    100008: R_Wheel_01
+    100010: R_Wheel_02
+    100012: R_Wheel_03
+    100014: R_Wheel_04
+    100016: TANK_TURRET
+    100018: TURRET_GUN
+    100020: //RootNode
+    400000: L_Wheel_01
+    400002: L_Wheel_02
+    400004: L_Wheel_03
+    400006: L_Wheel_04
+    400008: R_Wheel_01
+    400010: R_Wheel_02
+    400012: R_Wheel_03
+    400014: R_Wheel_04
+    400016: TANK_TURRET
+    400018: TURRET_GUN
+    400020: //RootNode
+    2300000: L_Wheel_01
+    2300002: L_Wheel_02
+    2300004: L_Wheel_03
+    2300006: L_Wheel_04
+    2300008: R_Wheel_01
+    2300010: R_Wheel_02
+    2300012: R_Wheel_03
+    2300014: R_Wheel_04
+    2300016: TANK_TURRET
+    2300018: TURRET_GUN
+    2300020: //RootNode
+    3300000: L_Wheel_01
+    3300002: L_Wheel_02
+    3300004: L_Wheel_03
+    3300006: L_Wheel_04
+    3300008: R_Wheel_01
+    3300010: R_Wheel_02
+    3300012: R_Wheel_03
+    3300014: R_Wheel_04
+    3300016: TANK_TURRET
+    3300018: TURRET_GUN
+    3300020: //RootNode
+    4300000: TANK_BODY
+    4300002: TANK_TURRET
+    4300004: TURRET_GUN
+    4300006: R_Wheel_03
+    4300008: R_Wheel_02
+    4300010: R_Wheel_01
+    4300012: L_Wheel_03
+    4300014: L_Wheel_02
+    4300016: L_Wheel_01
+    4300018: L_Wheel_04
+    4300020: R_Wheel_04
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
